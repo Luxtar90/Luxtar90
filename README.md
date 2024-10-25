@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Luiggi Arteaga  
 
-💻 **Desarrollador Full-Stack** | 📱 **Especialista en desarrollo web y aplicaciones móviles**
+💻 **Desarrollador Full-Stack** | 📱 **Estudiante en desarrollo web y aplicaciones móviles**
 
 ---
 
@@ -33,10 +33,7 @@
 
 ---
 
-### 📊 Mis estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Luxtar90&show_icons=true&theme=radical)
 
----
 
 
