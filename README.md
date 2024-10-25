@@ -1,4 +1,4 @@
-# 👋 Hola, soy Luiggi Arteaga (Luxwell) 
+# 👋 Hola, soy Luiggi Arteaga 
 
 💻 **Desarrollador Full-Stack** | 📱 **Especialista en desarrollo web y aplicaciones móviles**
 
